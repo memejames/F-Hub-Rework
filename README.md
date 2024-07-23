@@ -2,8 +2,7 @@
 
 Loadstring:
 ```lua
-fuction = true 
 loadstring(game:HttpGet(('https://raw.githubusercontent.com/memejames/F-Hub-Rework/main/Loader')))()
 ```
 
-Don't skid this or ur getting sued.
+When ur using this, Credit me or get sued. No skidding too.

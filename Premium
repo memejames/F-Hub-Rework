@@ -1,1 +1,1 @@
-loadstring(game:HttpGet(('https://raw.githubusercontent.com/memejames/DrRay-UI-Library/patch-1/Premium_Unloader.lua')))()
+loadstring(game:HttpGet(('https://raw.githubusercontent.com/memejames/DrRay-UI-Library/refs/heads/patch-2/configs')))()
